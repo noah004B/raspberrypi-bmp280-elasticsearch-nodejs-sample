@@ -1,7 +1,7 @@
 {
-  "name": "raspberrypi-bmp280-blynk-nodejs-sample",
+  "name": "raspberrypi-bmp280-elasticsearch-nodejs-sample",
   "version": "1.0.0",
-  "description": "Sample program for Raspberry PI & BME280 & Blynk & nodejs",
+  "description": "Sample program for Raspberry PI & BME280 & Elasticsearch & nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
