@@ -1,0 +1,8 @@
+{
+  "elasticsearch": {
+    "host": "<your elasticsearch host>",
+    "index": "environment",
+    "type": "temperture_humidity"
+  },
+  "cron": "*/1 * * * *"
+}

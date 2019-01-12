@@ -1,0 +1,16 @@
+{
+  "name": "raspberrypi-bmp280-blynk-nodejs-sample",
+  "version": "1.0.0",
+  "description": "Sample program for Raspberry PI & BME280 & Blynk & nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Kobayashi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bme280-sensor": "^0.1.6",
+    "node-cron": "^2.0.3"
+  }
+}
